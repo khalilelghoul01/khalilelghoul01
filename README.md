@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalilelghoul01
 - 👀 I’m interested in web development, video games development and other stuff
-- 🌱 I’m currently learning Golang, java
+- 🌱 I’m currently learning Rust, NextJS
 - 💞️ I’m looking to collaborate on many open source projects
 - 📫 How to reach me on instagram: keg195
 
