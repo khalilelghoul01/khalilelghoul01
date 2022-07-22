@@ -43,7 +43,7 @@
   <img src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/mongodb.png?8aee1a38" alt="mysql" width="40" height="30" />
 
 
-<img src="http://assets.stickpng.com/images/5847f40ecef1014c0b5e488a.png"  width="30" height="40" />
+<img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png?hl=es-419"  width="40" height="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 
@@ -56,7 +56,7 @@
   <img src="https://www.saashub.com/images/app/service_logos/192/9an5asiegmnh/large.png?1633819212" alt="solid" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="solid" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40" />
+  
  </p>
 
 <br>
