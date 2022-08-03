@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalil El Ghoul</h1>
-<h3 align="center">Junior FullStack Web Dev Living In France🌟.</h3>
+<h3 align="center">Junior FullStack Web Dev From France🌟.</h3>
 
 <br>
 
