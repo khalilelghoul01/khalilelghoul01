@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalil El Ghoul</h1>
-<h3 align="center">Junior FullStack Web Dev From France🌟.</h3>
+<h3 align="center">FullStack Web and Mobile Dev From France🌟.</h3>
 
 <br>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and improving my skills in the field of web development.
 
-- 📫 How to reach me **khalilelghoul01@gmail.com**
+- 📫 How to reach me **khalilelghoul.dev@gmail.com**
 
 - ⚡ Fun fact :- **Food** and **novels📚** are the reasons to live.
 
