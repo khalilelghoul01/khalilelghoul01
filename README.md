@@ -5,12 +5,6 @@
 
 <p><img align="right" style="width:300px;" src="https://raw.githubusercontent.com/khalilelghoul01/khalilelghoul01/main/images/dev.gif" alt="khalilelghoul01" /></p>
 
-- 🌱 I’m currently learning and improving my skills in the field of web development.
-
-- 📫 How to reach me **khalilelghoul.dev@gmail.com**
-
-- ⚡ Fun fact :- **Food** and **novels📚** are the reasons to live.
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -18,9 +12,6 @@
   <a href="https://www.linkedin.com/in/khalil-el-ghoul/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="khalil-el-ghoul" height="30" width="40" /></a> 
-  <a href="https://instagram.com/keg195" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="keg195" height="30" width="40" /></a> 
   <a href="khalil#7269" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png"
       alt="khalil#7269" height="40" width="40" /></a> 
